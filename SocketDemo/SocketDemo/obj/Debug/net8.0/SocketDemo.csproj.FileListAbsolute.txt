@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\SocketDemo\SocketDemo\obj\Debug\net8.0\SocketDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\SocketDemo\SocketDemo\obj\Debug\net8.0\SocketDemo.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SocketDemo\SocketDemo\obj\Debug\net8.0\SocketDemo.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SocketDemo\SocketDemo\obj\Debug\net8.0\SocketDemo.csproj.CoreCompileInputs.cache

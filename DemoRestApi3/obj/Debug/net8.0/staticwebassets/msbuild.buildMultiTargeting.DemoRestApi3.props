@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DemoRestApi3.props" />
+</Project>

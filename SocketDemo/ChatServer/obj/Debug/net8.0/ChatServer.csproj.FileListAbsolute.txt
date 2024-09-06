@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\SocketDemo\ChatServer\obj\Debug\net8.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\SocketDemo\ChatServer\obj\Debug\net8.0\ChatServer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SocketDemo\ChatServer\obj\Debug\net8.0\ChatServer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SocketDemo\ChatServer\obj\Debug\net8.0\ChatServer.csproj.CoreCompileInputs.cache

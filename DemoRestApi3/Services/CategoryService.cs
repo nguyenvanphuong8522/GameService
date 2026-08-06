@@ -25,9 +25,16 @@ namespace DemoRestApi3.Services
         public async Task<IEnumerable<Category>> GetAllAsync() =>
             await _categoryCollection.Find(a => true).ToListAsync();
 
-        public async Task Update(string id, Category category) =>
-            await _categoryCollection.ReplaceOneAsync( a => a.Id == id, category);
+        public async Task Update(string id, Category category)
+        {
+            var filter = Builders<Category>.Filter.Eq(a => a.Id, id);
 
+            var update = Builders<Category>.Update
+                .Set(a => a.UserName, category.UserName)
+                .Set(a => a.Password, category.Password);
+
+            await _categoryCollection.UpdateOneAsync(filter, update);
+        }
         public async Task DeleteAsync(string id) =>
             await _categoryCollection.DeleteOneAsync(a => a.Id == id);
 

@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\MyData\\Unity Documents\\Projects\\GameService\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9D9532DA-5CF6-4EB6-AC77-DD188D7D4CCF}|DemoRestApi3\\DemoRestApi3.csproj|c:\\users\\admin\\mydata\\unity documents\\projects\\gameservice\\demorestapi3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D9532DA-5CF6-4EB6-AC77-DD188D7D4CCF}|DemoRestApi3\\DemoRestApi3.csproj|solutionrelative:demorestapi3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9532DA-5CF6-4EB6-AC77-DD188D7D4CCF}|DemoRestApi3\\DemoRestApi3.csproj|c:\\users\\admin\\mydata\\unity documents\\projects\\gameservice\\demorestapi3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D9532DA-5CF6-4EB6-AC77-DD188D7D4CCF}|DemoRestApi3\\DemoRestApi3.csproj|solutionrelative:demorestapi3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9532DA-5CF6-4EB6-AC77-DD188D7D4CCF}|DemoRestApi3\\DemoRestApi3.csproj|c:\\users\\admin\\mydata\\unity documents\\projects\\gameservice\\demorestapi3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9532DA-5CF6-4EB6-AC77-DD188D7D4CCF}|DemoRestApi3\\DemoRestApi3.csproj|solutionrelative:demorestapi3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9532DA-5CF6-4EB6-AC77-DD188D7D4CCF}|DemoRestApi3\\DemoRestApi3.csproj|c:\\users\\admin\\mydata\\unity documents\\projects\\gameservice\\demorestapi3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9532DA-5CF6-4EB6-AC77-DD188D7D4CCF}|DemoRestApi3\\DemoRestApi3.csproj|solutionrelative:demorestapi3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9532DA-5CF6-4EB6-AC77-DD188D7D4CCF}|DemoRestApi3\\DemoRestApi3.csproj|c:\\users\\admin\\mydata\\unity documents\\projects\\gameservice\\demorestapi3\\models\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9532DA-5CF6-4EB6-AC77-DD188D7D4CCF}|DemoRestApi3\\DemoRestApi3.csproj|solutionrelative:demorestapi3\\models\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9D9532DA-5CF6-4EB6-AC77-DD188D7D4CCF}|DemoRestApi3\\DemoRestApi3.csproj|c:\\users\\admin\\mydata\\unity documents\\projects\\gameservice\\demorestapi3\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D9532DA-5CF6-4EB6-AC77-DD188D7D4CCF}|DemoRestApi3\\DemoRestApi3.csproj|solutionrelative:demorestapi3\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,28 +31,16 @@
       "RelativeMoniker": "D:0:0:{9D9532DA-5CF6-4EB6-AC77-DD188D7D4CCF}|DemoRestApi3\\DemoRestApi3.csproj|solutionrelative:demorestapi3\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D9532DA-5CF6-4EB6-AC77-DD188D7D4CCF}|DemoRestApi3\\DemoRestApi3.csproj|c:\\users\\admin\\mydata\\unity documents\\projects\\gameservice\\demorestapi3\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D9532DA-5CF6-4EB6-AC77-DD188D7D4CCF}|DemoRestApi3\\DemoRestApi3.csproj|solutionrelative:demorestapi3\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D9532DA-5CF6-4EB6-AC77-DD188D7D4CCF}|DemoRestApi3\\DemoRestApi3.csproj|c:\\users\\admin\\mydata\\unity documents\\projects\\gameservice\\demorestapi3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D9532DA-5CF6-4EB6-AC77-DD188D7D4CCF}|DemoRestApi3\\DemoRestApi3.csproj|solutionrelative:demorestapi3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D9532DA-5CF6-4EB6-AC77-DD188D7D4CCF}|DemoRestApi3\\DemoRestApi3.csproj|c:\\users\\admin\\mydata\\unity documents\\projects\\gameservice\\demorestapi3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9D9532DA-5CF6-4EB6-AC77-DD188D7D4CCF}|DemoRestApi3\\DemoRestApi3.csproj|solutionrelative:demorestapi3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D9532DA-5CF6-4EB6-AC77-DD188D7D4CCF}|DemoRestApi3\\DemoRestApi3.csproj|c:\\users\\admin\\mydata\\unity documents\\projects\\gameservice\\demorestapi3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D9532DA-5CF6-4EB6-AC77-DD188D7D4CCF}|DemoRestApi3\\DemoRestApi3.csproj|solutionrelative:demorestapi3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D9532DA-5CF6-4EB6-AC77-DD188D7D4CCF}|DemoRestApi3\\DemoRestApi3.csproj|c:\\users\\admin\\mydata\\unity documents\\projects\\gameservice\\demorestapi3\\models\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D9532DA-5CF6-4EB6-AC77-DD188D7D4CCF}|DemoRestApi3\\DemoRestApi3.csproj|solutionrelative:demorestapi3\\models\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9D9532DA-5CF6-4EB6-AC77-DD188D7D4CCF}|DemoRestApi3\\DemoRestApi3.csproj|c:\\users\\admin\\mydata\\unity documents\\projects\\gameservice\\demorestapi3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D9532DA-5CF6-4EB6-AC77-DD188D7D4CCF}|DemoRestApi3\\DemoRestApi3.csproj|solutionrelative:demorestapi3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9532DA-5CF6-4EB6-AC77-DD188D7D4CCF}|DemoRestApi3\\DemoRestApi3.csproj|c:\\users\\admin\\mydata\\unity documents\\projects\\gameservice\\demorestapi3\\demorestapi3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9D9532DA-5CF6-4EB6-AC77-DD188D7D4CCF}|DemoRestApi3\\DemoRestApi3.csproj|solutionrelative:demorestapi3\\demorestapi3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9532DA-5CF6-4EB6-AC77-DD188D7D4CCF}|DemoRestApi3\\DemoRestApi3.csproj|c:\\users\\admin\\mydata\\unity documents\\projects\\gameservice\\demorestapi3\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9532DA-5CF6-4EB6-AC77-DD188D7D4CCF}|DemoRestApi3\\DemoRestApi3.csproj|solutionrelative:demorestapi3\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +50,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\MyData\\Unity Documents\\Projects\\GameService\\DemoRestApi3\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DemoRestApi3\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\MyData\\Unity Documents\\Projects\\GameService\\DemoRestApi3\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DemoRestApi3\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-09T17:21:29.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DemoRestApi3",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\MyData\\Unity Documents\\Projects\\GameService\\DemoRestApi3\\DemoRestApi3.csproj",
+              "RelativeDocumentMoniker": "DemoRestApi3\\DemoRestApi3.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\MyData\\Unity Documents\\Projects\\GameService\\DemoRestApi3\\DemoRestApi3.csproj",
+              "RelativeToolTip": "DemoRestApi3\\DemoRestApi3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-09T17:08:31.836Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -52,33 +83,31 @@
               "RelativeDocumentMoniker": "DemoRestApi3\\Models\\Category.cs",
               "ToolTip": "C:\\Users\\ADMIN\\MyData\\Unity Documents\\Projects\\GameService\\DemoRestApi3\\Models\\Category.cs",
               "RelativeToolTip": "DemoRestApi3\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T07:56:10.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T07:56:10.714Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\MyData\\Unity Documents\\Projects\\GameService\\DemoRestApi3\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "DemoRestApi3\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\ADMIN\\MyData\\Unity Documents\\Projects\\GameService\\DemoRestApi3\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "DemoRestApi3\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAmwCUAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wBgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T07:51:19.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T07:51:19.141Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ADMIN\\MyData\\Unity Documents\\Projects\\GameService\\DemoRestApi3\\appsettings.json",
               "RelativeDocumentMoniker": "DemoRestApi3\\appsettings.json",
               "ToolTip": "C:\\Users\\ADMIN\\MyData\\Unity Documents\\Projects\\GameService\\DemoRestApi3\\appsettings.json",
               "RelativeToolTip": "DemoRestApi3\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-08-30T07:30:13.866Z",
               "EditorCaption": ""
@@ -93,12 +122,11 @@
               "RelativeToolTip": "DemoRestApi3\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T07:56:24.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T07:56:24.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\MyData\\Unity Documents\\Projects\\GameService\\DemoRestApi3\\Services\\ICategoryService.cs",
               "RelativeDocumentMoniker": "DemoRestApi3\\Services\\ICategoryService.cs",
@@ -106,38 +134,35 @@
               "RelativeToolTip": "DemoRestApi3\\Services\\ICategoryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T07:47:32.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T07:47:32.868Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\MyData\\Unity Documents\\Projects\\GameService\\DemoRestApi3\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "DemoRestApi3\\Services\\CategoryService.cs",
               "ToolTip": "C:\\Users\\ADMIN\\MyData\\Unity Documents\\Projects\\GameService\\DemoRestApi3\\Services\\CategoryService.cs",
               "RelativeToolTip": "DemoRestApi3\\Services\\CategoryService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T07:36:06.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T07:36:06.701Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\MyData\\Unity Documents\\Projects\\GameService\\DemoRestApi3\\Program.cs",
               "RelativeDocumentMoniker": "DemoRestApi3\\Program.cs",
               "ToolTip": "C:\\Users\\ADMIN\\MyData\\Unity Documents\\Projects\\GameService\\DemoRestApi3\\Program.cs",
               "RelativeToolTip": "DemoRestApi3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T07:33:08.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T07:33:08.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "DatabaseSettings.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\MyData\\Unity Documents\\Projects\\GameService\\DemoRestApi3\\Models\\DatabaseSettings.cs",
               "RelativeDocumentMoniker": "DemoRestApi3\\Models\\DatabaseSettings.cs",
@@ -145,8 +170,7 @@
               "RelativeToolTip": "DemoRestApi3\\Models\\DatabaseSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T07:30:02.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T07:30:02.461Z"
             }
           ]
         }
